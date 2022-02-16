@@ -1,0 +1,4 @@
+[submodule "pa1460-coop"]
+	path = pa1460-coop
+	url = https://github.com/LajnaLegenden/pa1460-coop
+	branch = main
